@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+twilio
+sqlalchemy
+psycopg2-binary
+langchain
+langchain-google-genai
+pydantic
+python-dotenv
+streamlit
+pandas
+plotly
+openpyxl
+python-multipart
+email-validator
+Jinja2
